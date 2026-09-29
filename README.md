@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm KanadeAlice</h1>
-<h3 align="center">A passionate developer from China</h3>
+<h3 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Kotlin-Developer)](https://git.io/typing-svg)</h3>
 
 - 🔭 I'm currently working on **NekoBoxForAndroid-kanade**
 - 🌱 I'm currently learning **Rust / Go**
@@ -24,6 +24,3 @@
 </p>
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=KanadeAlice&show_icons=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=KanadeAlice&show_icons=true&theme=dark_github)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Kotlin-Developer)](https://git.io/typing-svg)
-
